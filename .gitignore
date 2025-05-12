@@ -1,0 +1,9 @@
+# Binary Files
+/slstatus
+
+# Object Files
+*.o
+
+# Patch Files
+*.orig
+*.rej

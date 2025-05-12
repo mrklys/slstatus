@@ -5,6 +5,11 @@ programs over the EWMH property of the root window (used by dwm(1)) or
 standard input/output. It is designed to be as efficient as possible by
 only issuing the minimum of system calls required.
 
+------------
+**This is my custom build with following patches applied:**
+
+    ...
+
 
 Features
 --------
